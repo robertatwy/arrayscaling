@@ -56,6 +56,7 @@ public class ArrayScaling {
   
   public static void main(String[] args) throws InterruptedException {
     // TODO code application logic here
+    // Change the size variable such that it will be user promptable
     int size = 50000000;
     int partitions = 5;
     int partitionSize = size / partitions;
