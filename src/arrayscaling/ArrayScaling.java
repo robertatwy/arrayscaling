@@ -42,7 +42,8 @@
  * and and print out a message indicating which is the better method and by how 
  * much time. 
  * 
- * 
+ * Just a simple comment 
+ *
  */
 package arrayscaling;
 
